@@ -1,1 +1,1 @@
-# MP1450-DCDC-
+# MP1450-DCDC module
