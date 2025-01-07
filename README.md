@@ -1,7 +1,7 @@
 # MP1450-DCDC module
 
 1.simulink
-buck 
+buck circuit
 ![image](https://github.com/user-attachments/assets/a6d009ae-3212-4650-b573-a0251373af79)
 
 
@@ -19,6 +19,14 @@ _![image](https://github.com/user-attachments/assets/bbf0707b-dd67-455b-915e-f2a
 
 
 ![image](https://github.com/user-attachments/assets/67310443-5ec5-4223-a3bb-30e0278440a0)
+
+
+
+calculate analysis
+![image](https://github.com/user-attachments/assets/49a9d232-3c13-4e4e-a057-52f797270a05)
+
+
+![image](https://github.com/user-attachments/assets/3a7b04cd-9540-47a1-8317-9463bb3e1d73)
 
 
 
